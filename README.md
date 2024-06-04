@@ -12,4 +12,4 @@ This project builds the following models:
 - CNN
 - A Simple Model using USE
 ## Data used
-The data used in this project was provided by [GitHub User]([https://github.com/j-hagedorn])
+The data used in this project was provided by ([https://github.com/j-hagedorn])
